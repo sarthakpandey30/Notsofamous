@@ -9,5 +9,5 @@ This not only makes the user inquisitive about who that person they were matched
 ## Expansion
 We plan to add more people from startups and different kinds of companies which are not restricted to tech.
 ## Built With
-Python
-Open CV
+* Python
+* Open CV
