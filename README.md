@@ -11,3 +11,4 @@ We plan to add more people from startups and different kinds of companies which 
 ## Built With
 * Python
 * Open CV
+* numpy
