@@ -12,3 +12,16 @@ We plan to add more people from startups and different kinds of companies which 
 * Python
 * Open CV
 * numpy
+## How to Run?
+
+Open your Powershell 
+Browse to the location of the folder in powershell 
+(using cd and :)
+Once in the folder open source via cd source
+now enter command Python faces-train.py 
+Note: If you wish to train the bot on some other photos change the images in the source folder and label them as the name which you want it to recognize the image with.
+once it runs
+Enter Python faces.py and the program shall start.
+To exit click q.
+
+![That is me](Notsofamous/me1.jpg)
