@@ -28,4 +28,4 @@ Once it runs, enter Python faces.py and the program shall start.
 
 To exit click q.
 
-![That is me](Notsofamous/git2.jpg)
+![That is me](https://github.com/sarthakpandey30/Notsofamous/blob/master/git2.JPG)
